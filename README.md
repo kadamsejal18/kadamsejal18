@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 BCA Student (2023 – 2026) at **Smt. P. N. Doshi College**
-- 💼 Currently working as **AI / IT Intern at Probox Infotech**
+- 💼 Currently working as **Backend Developer Intern at Probox Infotech**
 - 🤖 Passionate about **Artificial Intelligence, RAG Systems, OCR, Accessibility Solutions, and Full Stack Development**
 - 🌱 Currently learning **Advanced JavaScript, DSA, React, Next.js, and AI Applications**
 - 🔥 Hands-on experience with **FastAPI, Django, MongoDB, Supabase, Redis Cache, and REST APIs**
